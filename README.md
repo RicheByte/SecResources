@@ -1,10 +1,11 @@
 
 
-# SecResources
-
-> **Cybersecurity Educational Resources**  
-> For learning. For ethical research.  
-> Knowledge = Defense.
+ _____             _____                                                
+|   __|___ ___ ___|   __|___ ___ _ _ ___ ___ ___ ___ ___ ___ ___ ___ ___ 
+|__   |  _| -_|_ -|   __|  _| . | | | -_|   | .'| . | . | . |  _| .'|_ -|
+|_____|_| |___|___|_____|_| |___|_  |___|_|_|__,|  _|___|  _|_| |__,|___|
+                                |___|             |_|     |_|           
+> Cybersecurity Educational Resources | Learn. Build. Defend.
 
 ---
 
