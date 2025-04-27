@@ -1,12 +1,4 @@
-Awesome — you’ve collected a *huge* set of categories!  
-I’ll write a **professional README** for you that:
 
-- Clearly says it's for **educational** purposes.
-- Lists the **categories** nicely.
-- Makes the repo look **organized and responsible**.
-- Helps protect you from misunderstandings.
-
----
 
 # SecResources
 
